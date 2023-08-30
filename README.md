@@ -1,5 +1,3 @@
-Shell Basics(Navigations)
-
 Shell basics and navigation are fundamental concepts when working with a command-line interface. Here's a brief overview of some important shell basics and navigation commands:
 
 **1. **Command Prompt**: The shell displays a command prompt where you can type your commands. The prompt usually shows information about your current directory and may vary depending on the shell you're using.
