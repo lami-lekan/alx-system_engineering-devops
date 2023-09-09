@@ -1,2 +1,2 @@
 #!/bin/bash
-chmown :school hello
+chown :school hello
