@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d | ws -l
+find . -type d -name . | ws -l
